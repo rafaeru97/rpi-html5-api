@@ -16,5 +16,5 @@ Also you need Qt libraries:
 ```sudo apt-get install qt5-default libqt5webview```  
   
 To compile:
-```qmake  
-make```
+```qmake```  
+```make```
