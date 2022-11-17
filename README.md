@@ -13,7 +13,7 @@ Compiling
 
 You need this JSON library: https://github.com/nlohmann/json  
 Also you need Qt libraries:  
-```sudo apt-get install qt5-default libqt5webview```  
+```sudo apt-get install qtbase5-dev libqt5webkit5-dev libqt5websockets5-dev```  
   
 To compile:  
 ```qmake```  
